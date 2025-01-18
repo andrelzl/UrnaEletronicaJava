@@ -6,7 +6,7 @@ Este repositório contém um projeto desenvolvido utilizando Java. Neste arquivo
 
 Antes de começar, verifique se você possui as seguintes ferramentas instaladas em sua máquina:
 
-- Java JDK (versão 117 ou superior)
+- Java JDK (versão 17 ou superior)
 - Uma IDE de sua preferência.
 
 ## Passo 1: Clonar o repositório
