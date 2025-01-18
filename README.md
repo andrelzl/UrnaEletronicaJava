@@ -22,12 +22,12 @@ Isso criará uma cópia local do repositório em seu ambiente.
 
 ## Passo 2: Rodando o código
 
-Você pode rodar o codigo diretamente na IDE, ou usando o CMD na pasta onde estão os arquivos:
+Você pode rodar o codigo diretamente na IDE, ou usando o terminal na pasta onde estão os arquivos:
 
 Candidato.java
 UrnaEletronicaJava.java
 
-Para rodar o código no CMD:
+Para rodar o código no terminal:
 ```bash
 Java UrnaEletronicaJava.java
 ```
